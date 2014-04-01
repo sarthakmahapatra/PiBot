@@ -11,6 +11,10 @@ The idea is to create a Socially Aware IOT device. The Bot runs on the Pi . The 
 The Bot is develop in C# and runs on the Pi over mono runtime.
 Bot uses XMPP (agsxmpp-sdk) to commuicate with the google chat server. It also uses WebIOPi to interface with the Pi's GPIO.
 
+Demo
+====
+https://www.youtube.com/watch?v=GBX73TGOZL0
+
 Links
 =====
 
