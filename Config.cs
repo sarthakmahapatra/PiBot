@@ -28,7 +28,7 @@ namespace PiBot
         public static string WebIOPiPassword = "raspberry";
 
         //WebIOpi URI
-        public static string WebIOPiURI = "http://192.168.2.2:8000/";
+        public static string WebIOPiURI = "http://localhost:8000/";
 
 
 
